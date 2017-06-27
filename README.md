@@ -1,10 +1,10 @@
 # Comets Testes
 
-Construa uma pokeagenda, consumindo a api do http://pokeapi.co/. Esse teste vai medir o seus conhecimentos em PHP, MVC, APIs, HTML, CSS, JS e GIT.
+Construa uma pokeagenda, consumindo a api do http://pokeapi.co/. Esse teste vai medir os seus conhecimentos em PHP, MVC, APIs, HTML, CSS, JS e GIT.
 
 # Requisitos Obrigatórios:
 
-1. Na listagem campos dos campos são foto, nome e tipo. Quando clicar no Pokemon, abrir suas habilidades/movimentos e paginação.
+1. Na listagem os campos são foto, nome e tipo. Quando clicar no Pokemon, abrir suas habilidades/movimentos e paginação.
 
 2. Usar os conceitos de MVC e POO.
 
@@ -18,4 +18,4 @@ Deixo a critério do candidato o front, porém quanto mais bonito melhor. :P
 
 # IMPORTANTE
 
-Por fim e não menos importante o prazo de entrega para o código é dia 28/06/2017 ás 18h.
+Por fim e não menos importante o prazo de entrega para o código é dia 28/06/2017 até 18h.
